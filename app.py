@@ -7,6 +7,7 @@ st.write("반가워요!")
 st.write("COLD!")
 st.write("SO COLD!")
 st.write("VERY COLD!")
+st.write("good?")
 
 st.sidebar.header("설정")
 name = st.text_input("이름을 입력하세요", "사용자")
